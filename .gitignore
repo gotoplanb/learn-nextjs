@@ -34,6 +34,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# Ensure .next is not ignored. Aded to troubleshoot Vercel build error after enabling PPR.
-!.next
